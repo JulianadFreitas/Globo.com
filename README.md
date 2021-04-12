@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <br>
-  <img src="imagens/logo_desktop.jpg" alt="Globo.com" width="70">
+  <img src="imagens/logo_desktop.png" alt="Globo.com" width="70">
 <br>
 <br>
 Globo.com
@@ -14,11 +14,11 @@ Globo.com
 </p>
 
 <p align="center">
-  Acesse o site <a href="https://julianadfreitas.github.io/Projeto_04_MemoryGame/"> aqui </a>
+  Acesse o site <a href="https://julianadfreitas.github.io/Projeto_01_Globo.com/"> aqui </a>
 </p>
 
 <div align="center">
-  <img src="imagens/layout_desktop_turma2_oficial.png" alt="demo" height="200">
+  <img src="imagens/layout_desktop_turma2_oficial.png" alt="demo" height="400">
 </div>
 
 <hr />

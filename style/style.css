@@ -1,271 +1,266 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
 
 a {
-  text-decoration: none;
-  font-family: "Open Sans";
+    text-decoration: none;
+    font-family: "Open Sans";
 }
+
 .letterorange {
-  color: #ff8203;
+    color: #ff8203;
 }
 
 body {
-  background-color: fff;
-  font-family: "Open Sans";
+    background-color: fff;
+    font-family: "Open Sans";
 }
 
 a:hover {
-  filter: brightness(1.4);
+    filter: brightness(1.4);
 }
 
 .topo {
-  height: 103px;
-  width: 100%;
-  font-family: "Open Sans";
-  letter-spacing: -0.8px;
-  background-color: #fff;
-  display: flex;
-  align-items: center;
-  border-color: #e6e6e6;
-  border-width: 1px;
-  border-bottom-style: solid;
+    height: 103px;
+    width: 100%;
+    font-family: "Open Sans";
+    letter-spacing: -0.8px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    border-color: #e6e6e6;
+    border-width: 1px;
+    border-bottom-style: solid;
 }
 
 .logo_desktop {
-  width: 97px;
-  align-items: center;
-  margin-left: 120px;
+    width: 97px;
+    align-items: center;
+    margin-left: 120px;
 }
 
 .imagens {
-  width: 171px;
-  height: 96px;
-  margin-bottom: 7px;
-  border-radius: 4px;
-  margin-top: 20px;
+    width: 171px;
+    height: 96px;
+    margin-bottom: 7px;
+    border-radius: 4px;
+    margin-top: 20px;
 }
 
 .imagensdireita {
-  width: 219px;
-  height: 118px;
-  margin-bottom: 15px;
-  border-radius: 4px;
+    width: 219px;
+    height: 118px;
+    margin-bottom: 15px;
+    border-radius: 4px;
 }
 
 .g1 {
-  font-family: "Open Sans";
-  font-size: 20px;
-  font-weight: bold;
-  letter-spacing: -0.8px;
-  color: #a80001;
-  margin-right: 25px;
-  margin-left: 50px;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: -0.8px;
+    color: #a80001;
+    margin-right: 25px;
+    margin-left: 50px;
 }
 
 .ge {
-  font-family: "Open Sans";
-  font-size: 20px;
-  font-weight: bold;
-  letter-spacing: -0.8px;
-  color: #06aa48;
-  margin-right: 25px;
-  margin-left: 25px;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: -0.8px;
+    color: #06aa48;
+    margin-right: 25px;
+    margin-left: 25px;
 }
 
 .gshow {
-  font-family: "Open Sans";
-  font-size: 20px;
-  font-weight: bold;
-  letter-spacing: -0.8px;
-  color: #ff7f00;
-  margin-right: 25px;
-  margin-left: 25px;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: -0.8px;
+    color: #ff7f00;
+    margin-right: 25px;
+    margin-left: 25px;
 }
 
 .tech {
-  font-family: "Open Sans";
-  font-size: 20px;
-  letter-spacing: -0.8px;
-  font-weight: bold;
-  color: #666;
-  margin-right: 25px;
-  margin-left: 25px;
+    font-family: "Open Sans";
+    font-size: 20px;
+    letter-spacing: -0.8px;
+    font-weight: bold;
+    color: #666;
+    margin-right: 25px;
+    margin-left: 25px;
 }
 
 .videos {
-  font-family: "Open Sans";
-  font-size: 20px;
-  font-weight: bold;
-  letter-spacing: -0.8px;
-  color: #0769de;
-  margin-right: 25px;
-  margin-left: 25px;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: -0.8px;
+    color: #0769de;
+    margin-right: 25px;
+    margin-left: 25px;
 }
 
 .titulo {
-  font-weight: bold;
-  margin-bottom: 10px;
-  letter-spacing: -0.045em;
-  font-size: 19px;
-  line-height: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    letter-spacing: -0.045em;
+    font-size: 19px;
+    line-height: 24px;
 }
 
 .titulodireita {
-  font-weight: bold;
-  margin-bottom: 10px;
-  font-size: 19px;
-  line-height: 24px;
-  
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 19px;
+    line-height: 24px;
 }
 
 .subtitulo {
-  line-height: 21px;
-  font-size: 14.5px;
-  letter-spacing: -0.048em;
-  color: #FF8203;
-  
-
+    line-height: 21px;
+    font-size: 14.5px;
+    letter-spacing: -0.048em;
+    color: #FF8203;
 }
 
 .corpo {
-  display: flex;
-  width: 1105px;
-  height: 800px;
-  background-color: #fff;
-  margin-left: auto;
-  margin-right: auto;
-  position: absolute;
-  
+    display: flex;
+    width: 1105px;
+    height: 800px;
+    flex-direction: ;
+    background-color: #fff;
+    margin-left: auto;
+    margin- right: auto;
+    position: absolute;
 }
-.ladoesquerdo {
-  color: #cd150b;
-  width: 50%;
-  height: 720px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  background-color: #fff;
-  margin: 35px 20px 0px 115px;
- 
- 
-  
-}
- .caixaesquerda {
-  width: 171px;
-  margin: 10px 15px 0px 0px;
-  display: flex;
-  flex-wrap: wrap;
- }
-.blocoe1 {
-  display: flex;
-  height: 260px;
-  color: #a80001;
-  background-color: #fff;
-  margin-bottom:25px;
 
+.ladoesquerdo {
+    color: #cd150b;
+    width: 50%;
+    height: 720px;
+    display: flex;
+    flex-direction: column;
+    justify-content: es background-color: #fff;
+    margin: 35px 20px 0px 115px;
 }
+
+.caixaesquerda {
+    width: 171px;
+    margin: 10px 15px 0px 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.blocoe1 {
+    display: flex;
+    height: 260px;
+    color: #a80001;
+    background-color: #fff;
+    margin-bottom: 25px;
+}
+
 .separador {
-  width: 547px;
-  height: 1px;
-  background: #E6E6E6;
+    width: 547px;
+    height: 1px;
+    background: #E6E6E6;
 }
+
 .blocoe2 {
-  display: flex;
-  height: 118px;
-  margin-top: 10px;
-  width:100%;
-  justify-content: space-between;
+    display: flex;
+    height: 118px;
+    margin-top: 10px;
+    width: 100%;
+    justify-content: space-between;
 }
 
 .ladodireito {
-  display: flex;
-  background-color: #fff;
-  margin-top: 40px;
-  height: 675px;
-  margin-left: 15px;
-  
+    display: flex;
+    flex-direction: ;
+    background-color: #fff;
+    margin-top: 40px;
+    height: 675px;
+    margin-left: 15px;
+
 }
+
 .colorgreen {
-  color: #06aa48;
+    color: #06aa48;
 }
+
 .colororange {
-  color: #ff8203;
+    color: #ff8203;
 }
+
 .colorred {
-  color: #CD150B;
+    color: #CD150B;
 }
+
 .blocod1 {
-  color: green;
-  height: 100%;
-  width: 50%;
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  border-color: #e6e6e6;
-  border-width: 1px;
-  border-right-style: solid;
-  border-left-style: solid;
-  
+    color: green;
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border-color: #e6e6e6;
+    border-width: 1px;
+    border-right-style: solid;
+    border-left-style: solid;
 }
 
 .blocod2 {
-  height: 100%;
-  width: 50%;;
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  
-  
+    height: 100%;
+    width: 50%;
+    ;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
 }
 
-
-
-
 .caixadireita1 {
-  width: 215px;
-  font-size: 22px;
-  margin:0px 35px 0px 35px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  letter-spacing: -4.8%;
+    width: 215px;
+    font-size: 22px;
+    margin: 0px 35px 0px 35px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    letter-spacing: -4.8%;
 }
 
 .caixadireita2 {
-  width: 210px;
-  font-size: 22px;
-  margin: 0px 35px 0px 35px;
-  display: flex;
-  flex-wrap: wrap;
-  letter-spacing: -4.8%;
-  justify-content: space-between;
-  
+    width: 210px;
+    font-size: 22px;
+    margin: 0px 35px 0px 35px;
+    display: flex;
+    flex-wrap: wrap;
+    letter-spacing: -4.8%;
+    justify-content: space-between;
 }
 
 .capa {
-  width: 558px;
-  height: 242.5px;
-  display: flex;
-  flex-wrap: wrap;
-  color: #CD150B;
-  margin-bottom: 1px;
+    width: 558px;
+    height: 242.5px;
+    display: flex;
+    flex-wrap: wrap;
+    color: #CD150B;
+    margin-bottom: 1px;
 }
 
 .letracapa {
-  font-size: 52px;
-  font-weight: 700;
-  letter-spacing: -0.5px;
-  color: #CD150B;
+    font-size: 52px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    color: #CD150B;
 }
 
 .letrasecundaria {
-  font-size: 18px;
-  letter-spacing: -0.6px;
-  font-weight: 400;
-  color: #CD150B;
-  
+    font-size: 18px;
+    letter-spacing: -0.6px;
+    font-weight: 400;
+    color: #CD150B;
 }
-
