@@ -120,7 +120,7 @@ a:hover {
 .subtitulo {
     line-height: 21px;
     font-size: 14.5px;
-    letter-spacing: -0.048em;
+    letter-spacing: -0.048em;;
     color: #FF8203;
 }
 
@@ -131,7 +131,7 @@ a:hover {
     flex-direction: ;
     background-color: #fff;
     margin-left: auto;
-    margin- right: auto;
+    margin-right: auto;
     position: absolute;
 }
 
@@ -141,7 +141,7 @@ a:hover {
     height: 720px;
     display: flex;
     flex-direction: column;
-    justify-content: es background-color: #fff;
+    background-color: #fff;
     margin: 35px 20px 0px 115px;
 }
 
@@ -176,7 +176,7 @@ a:hover {
 
 .ladodireito {
     display: flex;
-    flex-direction: ;
+    flex-direction:;
     background-color: #fff;
     margin-top: 40px;
     height: 675px;
@@ -214,7 +214,6 @@ a:hover {
 .blocod2 {
     height: 100%;
     width: 50%;
-    ;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;

@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <br>
-  <img src="imagens/logo_desktop.png" alt="Globo.com" width="70">
+  <img src="imagens/logo_desktop.png" alt="Globo.com" width="120">
 <br>
 <br>
 Globo.com
@@ -22,10 +22,6 @@ Globo.com
 </div>
 
 <hr />
-
-
-[//]: # (Add the features of your project here:)
-### Página desenvolvida utilizando CSS e HTML.
 
 
 
