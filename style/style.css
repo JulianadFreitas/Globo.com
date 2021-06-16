@@ -34,7 +34,7 @@ a:hover {
 .logo_desktop {
     width: 97px;
     align-items: center;
-    margin-left: 120px;
+    margin-left: 95px;
 }
 
 .imagens {
@@ -128,7 +128,6 @@ a:hover {
     display: flex;
     width: 1105px;
     height: 800px;
-    flex-direction: ;
     background-color: #fff;
     margin-left: auto;
     margin-right: auto;
@@ -142,7 +141,7 @@ a:hover {
     display: flex;
     flex-direction: column;
     background-color: #fff;
-    margin: 35px 20px 0px 115px;
+    margin: 35px 20px 0px 90px;
 }
 
 .caixaesquerda {
@@ -176,11 +175,10 @@ a:hover {
 
 .ladodireito {
     display: flex;
-    flex-direction:;
     background-color: #fff;
     margin-top: 40px;
     height: 675px;
-    margin-left: 15px;
+    margin-right: 80px;
 
 }
 
