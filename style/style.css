@@ -130,8 +130,9 @@ a:hover {
     height: 800px;
     background-color: #fff;
     margin-left: auto;
-    margin-right: auto;
     position: absolute;
+    margin-right: auto;
+    
 }
 
 .ladoesquerdo {
