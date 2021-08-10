@@ -7,9 +7,9 @@
 Globo.com
 </h1>
 
-<p align="center">Layout de uma versão simplificada da home da http://globo.com, utilizando HTML e CSS.</p>
+<p align="center">Layout de uma versão simplificada da home da <a http://globo.com"> Globo.com </a> , utilizando HTML e CSS.</p>
 <p align="center">
-  Acesse o site <a href="https://julianadfreitas.github.io/Projeto_01_Globo.com/"> aqui </a>
+  Acesse o site <a href="https://julianadfreitas.github.io/Globo.com/"> aqui </a>
 </p>
 
 <div align="center">
